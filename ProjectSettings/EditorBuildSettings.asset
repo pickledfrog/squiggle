@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Oculus/SampleFramework/Usage/StartScene.unity
+    guid: 071fba5195bd4b04eab8668985aa1683
+  - enabled: 0
+    path: Assets/Oculus/SampleFramework/Usage/DistanceGrab.unity
+    guid: 24f58b3f0ca02d44eaec7f50bca538f2
+  - enabled: 1
+    path: Assets/Scenes/GrabMVP.unity
+    guid: 1c9f22198530144d28f3f9b19a2cc46c
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 3bd7ec94fed8f4a5186a7fbd7e1c65bd, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 45818f4681b7c4c60af278d43987fe4e, type: 2}
